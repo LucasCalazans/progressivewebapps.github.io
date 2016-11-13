@@ -1,0 +1,9 @@
+{
+	"name":					"PWABrasil",
+	"short_name":			"PWABrasil",
+	"theme_color":			"#F56666",
+	"background_color":		"#F56666",
+	"display":				"standalone",
+	"scope":				"/",
+	"start_url":			"/"
+}
