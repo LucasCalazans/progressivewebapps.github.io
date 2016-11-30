@@ -4,8 +4,11 @@ this.addEventListener('install', function(event) {
 			return cache.addAll([
 				'/index.html',
 				'/css/',
+				'/css/styles.css',
 				'/js/',
+				'/js/main.js',
 				'/resources/'
+				'/resources/CaviarDreams.ttf'
 			]);
 		})
 	);
