@@ -7,7 +7,7 @@ this.addEventListener('install', function(event) {
 				'/css/styles.css',
 				'/js/',
 				'/js/main.js',
-				'/resources/'
+				'/resources/',
 				'/resources/CaviarDreams.ttf'
 			]);
 		})
