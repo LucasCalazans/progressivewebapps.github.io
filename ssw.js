@@ -3,11 +3,8 @@ this.addEventListener('install', function(event) {
 		caches.open('0.0.1').then(function(cache) {
 			return cache.addAll([
 				'/index.html',
-				'/css/',
 				'/css/styles.css',
-				'/js/',
 				'/js/main.js',
-				'/resources/',
 				'/resources/CaviarDreams.ttf'
 			]);
 		})
